@@ -35,7 +35,7 @@
 ### ☁ Infra / Tools  
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![Amazon SES](https://img.shields.io/badge/Amazon%20SES-FF9900?style=flat&logo=amazon-ses&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon%20SES-FF9900?style=flat&logo=amazonsimpleemailservice&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -47,5 +47,5 @@
 
 ## 🌐 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kjh950901@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-FF5C5C?style=flat&logo=blogger&logoColor=white)](https://developerhun.tistory.com)
+[![Tistory](https://img.shields.io/badge/Tistory-FF5C5C?style=flat&logo=tistory&logoColor=white)](https://developerhun.tistory.com)
 
