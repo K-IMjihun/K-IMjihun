@@ -1,76 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Animated Header</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #0d1117;
-      color: white;
-    }
-    .header-container {
-      position: relative;
-      text-align: center;
-    }
-    .capsule-header {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-    .title-text {
-      position: absolute;
-      top: 35%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 40px;
-      font-weight: bold;
-      animation: fadeInUp 2s ease-out;
-    }
-    .name-tag {
-      position: absolute;
-      top: 58%;
-      left: 50%;
-      transform: translateX(-50%);
-      font-size: 18px;
-      color: #d1d5db;
-      opacity: 0.8;
-      animation: floatUp 4s ease-in-out infinite;
-    }
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋welcome to my GitHub! 😎&fontSize=50&animation=fadeIn" />
+</p>
 
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translate(-50%, 30%);
-      }
-      to {
-        opacity: 1;
-        transform: translate(-50%, -50%);
-      }
-    }
-
-    @keyframes floatUp {
-      0%, 100% {
-        transform: translate(-50%, 0);
-      }
-      50% {
-        transform: translate(-50%, -5px);
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <div class="header-container">
-    <img class="capsule-header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header" alt="Header" />
-    <div class="title-text">👋Welcome!</div>
-    <div class="name-tag">Jihun's github  😎</div>
-  </div>
-
-</body>
-</html>
-<br>
 
 ## 📈 GitHub Stats
 <div align="center">
