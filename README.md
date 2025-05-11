@@ -85,7 +85,6 @@
   </tr>
 </table>
 </div>
-<br>
 
 ## 💻 Tech Stack
 ### 🖥 Frontend  
